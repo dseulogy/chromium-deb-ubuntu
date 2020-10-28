@@ -1,0 +1,14 @@
+You Can Also Get the .deb's from archive.ubuntu.com.
+
+MAKE SURE TO DOWNLOAD THE DEPENDENCIES FIRST
+
+    Go to http://archive.ubuntu.com/ubuntu/pool/universe/c/chromium-browser/
+
+    Use CTRL+F to search for:
+        chromium-browser_85.0.4183.83-0ubuntu0.18.04.2_amd64.deb
+        chromium-codecs-ffmpeg-extra_85.0.4183.83-0ubuntu0.18.04.2_amd64.deb
+        chromium-browser-l10n_85.0.4183.83-0ubuntu0.18.04.2_all.deb
+
+    Download Them and Install
+
+    Run sudo apt-mark hold chromium-browser to prevent it from updating to snap version.
